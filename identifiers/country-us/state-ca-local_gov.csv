@@ -100,6 +100,10 @@ ocd-division/country:us/state:ca/county:los_angeles/school_board_district:4,Los 
 ocd-division/country:us/state:ca/county:los_angeles/school_board_district:5,Los Angeles CA Unified School Board district 5
 ocd-division/country:us/state:ca/county:los_angeles/school_board_district:6,Los Angeles CA Unified School Board district 6
 ocd-division/country:us/state:ca/county:los_angeles/school_board_district:7,Los Angeles CA Unified School Board district 7
+ocd-division/country:us/state:ca/county:los_angeles/la_metro_sector:san_gabriel_valley,Los Angeles CA county supervisor San Gabriel Valley
+ocd-division/country:us/state:ca/county:los_angeles/la_metro_sector:southeast_long_beach,Los Angeles CA county supervisor Southeast Long Beach
+ocd-division/country:us/state:ca/county:los_angeles/la_metro_sector:southwest_corridor,Los Angeles CA county supervisor Southwest Corridor
+ocd-division/country:us/state:ca/county:los_angeles/la_metro_sector:north_county_san_fernando_valley,Los Angeles CA county supervisor North County/San Fernando Valley
 ocd-division/country:us/state:ca/county:madera/council_district:1,Madera County Supervisor District 1
 ocd-division/country:us/state:ca/county:madera/council_district:2,Madera County Supervisor District 2
 ocd-division/country:us/state:ca/county:madera/council_district:3,Madera County Supervisor District 3
@@ -450,3 +454,28 @@ ocd-division/country:us/state:ca/place:inglewood/council_district:1,Inglewood CA
 ocd-division/country:us/state:ca/place:inglewood/council_district:2,Inglewood CA city council district 2
 ocd-division/country:us/state:ca/place:inglewood/council_district:3,Inglewood CA city council district 3
 ocd-division/country:us/state:ca/place:inglewood/council_district:4,Inglewood CA city council district 4
+ocd-division/country:us/state:ca/county:los_angeles/health_care:antelope_valley,Antelope Valley Health Care
+ocd-division/country:us/state:ca/county:los_angeles/health_care:beach_cities,Beach Cities Health Care
+ocd-division/country:us/state:ca/county:los_angeles/water:castaic_lake_water_agency,Castaic Lake Water Agency
+ocd-division/country:us/state:ca/county:los_angeles/water:castaic_lake_water_agency/region:1,Castaic Lake Water Agency Division 1
+ocd-division/country:us/state:ca/place:palmdale/council_district:1,City Of Palmdale 1st Council
+ocd-division/country:us/state:ca/place:palmdale/council_district:2,City Of Palmdale 2nd Council
+ocd-division/country:us/state:ca/place:palmdale/council_district:3,City Of Palmdale 3rd Council
+ocd-division/country:us/state:ca/place:palmdale/council_district:4,City Of Palmdale 4th Council
+ocd-division/country:us/state:ca/county:los_angeles/water:castaic_lake_water_agency/region:2,Castaic Lake Water Agency Division 2
+ocd-division/country:us/state:ca/county:los_angeles/water:central_basin_municipal/region:1,Central Basin Municipal Water Division 1
+ocd-division/country:us/state:ca/county:los_angeles/water:central_basin_municipal/region:4,Central Basin Municipal Water Division 4
+ocd-division/country:us/state:ca/county:los_angeles/water:central_basin_municipal/region:5,Central Basin Municipal Water Division 5
+ocd-division/country:us/state:ca/county:los_angeles/water:replenishment_district_of_southern_california/region:2,Water Replenishment District Of Southern California Division 2
+ocd-division/country:us/state:ca/county:los_angeles/water:replenishment_district_of_southern_california/region:5,Water Replenishment District Of Southern California Division 5
+ocd-division/country:us/state:ca/county:los_angeles/water:san_gabriel_valley_municipal/region:2,San Gabriel Valley Municipal Water Division 2
+ocd-division/country:us/state:ca/county:los_angeles/water:three_valleys_municipal/region:6,Three Valleys Municipal Water Division 6
+ocd-division/country:us/state:ca/county:los_angeles/water:upper_san_gabriel_valley_municipal/region:3,Upper San Gabriel Valley Municipal Water Division 3
+ocd-division/country:us/state:ca/county:los_angeles/water:upper_san_gabriel_valley_municipal/region:4,Upper San Gabriel Valley Municipal Water Division 4
+ocd-division/country:us/state:ca/county:los_angeles/water:west_basin_municipal/region:5,West Basin Municipal Water Division 5
+ocd-division/country:us/state:ca/county:los_angeles/water:central_basin_municipal,Central Basin Municipal Water
+ocd-division/country:us/state:ca/county:los_angeles/water:replenishment_district_of_southern_california,Water Replenishment District Of Southern California
+ocd-division/country:us/state:ca/county:los_angeles/water:san_gabriel_valley_municipal,San Gabriel Valley Municipal Water
+ocd-division/country:us/state:ca/county:los_angeles/water:three_valleys_municipal,Three Valleys Municipal Water
+ocd-division/country:us/state:ca/county:los_angeles/water:upper_san_gabriel_valley_municipal,Upper San Gabriel Valley Municipal Water
+ocd-division/country:us/state:ca/county:los_angeles/water:west_basin_municipal,West Basin Municipal Water

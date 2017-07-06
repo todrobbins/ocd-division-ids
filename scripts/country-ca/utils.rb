@@ -16,6 +16,7 @@ require "mechanize"
 require "nokogiri"
 require "spreadsheet"
 require "unicode_utils/downcase"
+require "unicode_utils/upcase"
 require "zip"
 
 class String
@@ -26,16 +27,18 @@ end
 
 def census_division_type_names
   {}.tap do |hash|
-    Nokogiri::HTML(open("http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-4-eng.cfm")).xpath("//table/tbody/tr/th[1]/abbr").each do |abbr|
-      hash[abbr.text] = abbr["title"].sub(/ \/.+\z/, "")
+    Nokogiri::HTML(open("http://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_4-eng.cfm")).xpath("//th[@headers]/text()").each do |node|
+      code, name = node.text.split(" – ", 2)
+      hash[code] = name.downcase
     end
   end
 end
 
 def census_subdivision_type_names
   {}.tap do |hash|
-    Nokogiri::HTML(open("http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-5-eng.cfm")).xpath("//table/tbody/tr/th[1]/abbr").each do |abbr|
-      hash[abbr.text] = abbr["title"].sub(/ \/.+\z/, "")
+    Nokogiri::HTML(open("http://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_5-eng.cfm")).xpath("//th[@headers]/text()").each do |node|
+      code, name = node.text.split(" – ", 2)  # non-breaking space
+      hash[code] = name.downcase
     end
   end
 end
@@ -163,19 +166,23 @@ class ShapefileParser
   end
 
   # Outputs identifiers in CSV format.
-  def run
+  def run(options = {})
     headers = %w(id)
     @mappings.keys.each do |mapping|
       unless [:id, :sort_as].include?(mapping)
         headers << mapping
       end
     end
-    puts CSV.generate_line(headers)
+    unless options[:write_headers] == false
+      puts CSV.generate_line(headers)
+    end
 
     Zip::File.open(open(@url)) do |zipfile|
       entry = zipfile.entries.find{|entry| File.extname(entry.name) == ".dbf"}
       if entry
-        DBF::Table.new(StringIO.new(zipfile.read(entry))).map do |record|
+        DBF::Table.new(StringIO.new(zipfile.read(entry))).select do |record|
+          record
+        end.map do |record|
           ShapefileRecord.new(record, @mappings)
         end.select(&@filter).sort.each do |record|
           output(@prefix, *headers.map{|header| record.send(header)})
@@ -208,18 +215,25 @@ class ShapefileRecord
     @attributes = record.attributes
     @mappings = mappings
 
-    case @mappings.fetch(:name)
+    @name = case @mappings.fetch(:name)
     when Symbol, String
-      @name = @attributes.fetch(@mappings[:name])
+      @attributes.fetch(@mappings[:name])
     else
-      @name = @mappings[:name].call(record)
+      @mappings[:name].call(record)
     end
 
     @id = if @mappings.key?(:id)
-      if @attributes.fetch(@mappings[:id]).to_i == @attributes.fetch(@mappings[:id])
-        @attributes.fetch(@mappings[:id]).to_i.to_s # eliminate float precision
+      id = case @mappings[:id]
+      when Symbol, String
+        @attributes.fetch(@mappings[:id])
       else
-        @attributes.fetch(@mappings[:id]).to_s # may be an integer
+        @mappings[:id].call(record)
+      end
+
+      id = if id.to_i == @id
+        id.to_i.to_s # eliminate float precision
+      else
+        id.to_s # may be an integer
       end
     else
       name
@@ -233,7 +247,12 @@ class ShapefileRecord
       name
     end
 
-    @sort_as = Integer(sort_as.sub(/\A0+/, "")) rescue sort_as
+    integer = sort_as.sub(/\A0+/, "")
+    if integer[/\A(\d+)-\d{4}\z/]
+      integer = $1
+    end
+
+    @sort_as = Integer(integer) rescue sort_as
   end
 
   # @param [ShapefileRecord] other a shapefile record
@@ -245,7 +264,12 @@ class ShapefileRecord
 
   def method_missing(method, *args, &block)
     if @mappings.key?(method)
-      @attributes.fetch(@mappings.fetch(method))
+      case @mappings[method]
+      when Symbol, String
+        @attributes.fetch(@mappings.fetch(method))
+      else
+        @mappings[method].call(self)
+      end
     else
       super
     end

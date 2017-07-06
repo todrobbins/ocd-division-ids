@@ -25,47 +25,206 @@ ocd-division/country:ca/csd:1103025/ward:5,Hillcrest—Platte River
 ocd-division/country:ca/csd:1103025/ward:6,Center East—Downtown
 ocd-division/country:ca/csd:1103025/ward:7,Green Shore—Three Oaks
 ocd-division/country:ca/csd:1103025/ward:8,Wilmot
-ocd-division/country:ca/csd:1206001/district:a,District A
-ocd-division/country:ca/csd:1206001/district:b,District B
-ocd-division/country:ca/csd:1206001/district:c,District C
-ocd-division/country:ca/csd:1206001/district:d,District D
-ocd-division/country:ca/csd:1206001/district:e,District E
-ocd-division/country:ca/csd:1206001/district:f,District F
-ocd-division/country:ca/csd:1206001/district:g,District G
-ocd-division/country:ca/csd:1206001/district:h,District H
-ocd-division/country:ca/csd:1206001/district:i,District I
-ocd-division/country:ca/csd:1206001/district:j,District J
-ocd-division/country:ca/csd:1206001/district:k,District K
-ocd-division/country:ca/csd:1206001/district:l,District L
-ocd-division/country:ca/csd:1208008/district:1,Enfield
-ocd-division/country:ca/csd:1208008/district:2,Elmsdale
-ocd-division/country:ca/csd:1208008/district:3,Milford
-ocd-division/country:ca/csd:1208008/district:4,Shubenacadie
-ocd-division/country:ca/csd:1208008/district:5,Maitland
-ocd-division/country:ca/csd:1208008/district:6,Noel Walton
-ocd-division/country:ca/csd:1208008/district:7,Lantz
-ocd-division/country:ca/csd:1208008/district:8,Gore
-ocd-division/country:ca/csd:1208008/district:9,Nine Mile River
-ocd-division/country:ca/csd:1208008/district:10,Enfield Horne Settlement
-ocd-division/country:ca/csd:1208008/district:11,Rawdon
-ocd-division/country:ca/csd:1208008/district:12,East Uniacke
-ocd-division/country:ca/csd:1208008/district:13,Mount Uniacke
-ocd-division/country:ca/csd:1209034/district:1,Waverley - Fall River - Musquodoboit Valley
-ocd-division/country:ca/csd:1209034/district:2,Preston - Chezzetcook - Eastern Shore
-ocd-division/country:ca/csd:1209034/district:3,Dartmouth South - Eastern Passage
-ocd-division/country:ca/csd:1209034/district:4,Cole Harbour - Westphal
+ocd-division/country:ca/csd:1201001/district:1,District 1
+ocd-division/country:ca/csd:1201001/district:2,District 2
+ocd-division/country:ca/csd:1201001/district:3,District 3
+ocd-division/country:ca/csd:1201001/district:4,District 4
+ocd-division/country:ca/csd:1201001/district:5,District 5
+ocd-division/country:ca/csd:1201006/district:1,District 1
+ocd-division/country:ca/csd:1201006/district:2,District 2
+ocd-division/country:ca/csd:1201006/district:3,District 3
+ocd-division/country:ca/csd:1201006/district:4,District 4
+ocd-division/country:ca/csd:1201006/district:5,District 5
+ocd-division/country:ca/csd:1201006/district:6,District 6
+ocd-division/country:ca/csd:1201006/district:7,District 7
+ocd-division/country:ca/csd:1202001/district:1,District 1
+ocd-division/country:ca/csd:1202001/district:2,District 2
+ocd-division/country:ca/csd:1202001/district:3,District 3
+ocd-division/country:ca/csd:1202001/district:4,District 4
+ocd-division/country:ca/csd:1202001/district:5,District 5
+ocd-division/country:ca/csd:1202001/district:6,District 6
+ocd-division/country:ca/csd:1202001/district:7,District 7
+ocd-division/country:ca/csd:1202001/district:8,District 8
+ocd-division/country:ca/csd:1202001/district:9,District 9
+ocd-division/country:ca/csd:1202004/district:1,District 1
+ocd-division/country:ca/csd:1202004/district:2,District 2
+ocd-division/country:ca/csd:1202004/district:3,District 3
+ocd-division/country:ca/csd:1202004/district:4,District 4
+ocd-division/country:ca/csd:1202004/district:5,District 5
+ocd-division/country:ca/csd:1202004/district:6,District 6
+ocd-division/country:ca/csd:1202004/district:7,District 7
+ocd-division/country:ca/csd:1203001/district:1,District 1
+ocd-division/country:ca/csd:1203001/district:2a,District 2A
+ocd-division/country:ca/csd:1203001/district:2b,District 2B
+ocd-division/country:ca/csd:1203001/district:3,District 3
+ocd-division/country:ca/csd:1203001/district:4,District 4
+ocd-division/country:ca/csd:1203001/district:5,District 5
+ocd-division/country:ca/csd:1203001/district:6,District 6
+ocd-division/country:ca/csd:1203001/district:7,District 7
+ocd-division/country:ca/csd:1203001/district:8,District 8
+ocd-division/country:ca/csd:1203004/district:1,District 1
+ocd-division/country:ca/csd:1203004/district:2,District 2
+ocd-division/country:ca/csd:1203004/district:3,District 3
+ocd-division/country:ca/csd:1203004/district:4,District 4
+ocd-division/country:ca/csd:1203004/district:5,District 5
+ocd-division/country:ca/csd:1204010/district:1,District 1
+ocd-division/country:ca/csd:1204010/district:2,District 2
+ocd-division/country:ca/csd:1204010/district:3,District 3
+ocd-division/country:ca/csd:1204010/district:4,District 4
+ocd-division/country:ca/csd:1204010/district:5,District 5
+ocd-division/country:ca/csd:1204010/district:6,District 6
+ocd-division/country:ca/csd:1204010/district:7,District 7
+ocd-division/country:ca/cd:1205/district:1,District 1
+ocd-division/country:ca/cd:1205/district:2,District 2
+ocd-division/country:ca/cd:1205/district:3,District 3
+ocd-division/country:ca/cd:1205/district:4,District 4
+ocd-division/country:ca/cd:1205/district:5,District 5
+ocd-division/country:ca/cd:1205/district:6,District 6
+ocd-division/country:ca/cd:1205/district:7,District 7
+ocd-division/country:ca/cd:1205/district:8,District 8
+ocd-division/country:ca/cd:1205/district:9,District 9
+ocd-division/country:ca/cd:1205/district:10,District 10
+ocd-division/country:ca/cd:1205/district:11,District 11
+ocd-division/country:ca/csd:1206001/district:1,District 1
+ocd-division/country:ca/csd:1206001/district:2,District 2
+ocd-division/country:ca/csd:1206001/district:3,District 3
+ocd-division/country:ca/csd:1206001/district:4,District 4
+ocd-division/country:ca/csd:1206001/district:5,District 5
+ocd-division/country:ca/csd:1206001/district:6,District 6
+ocd-division/country:ca/csd:1206001/district:7,District 7
+ocd-division/country:ca/csd:1206001/district:8,District 8
+ocd-division/country:ca/csd:1206001/district:9,District 9
+ocd-division/country:ca/csd:1206001/district:10,District 10
+ocd-division/country:ca/csd:1206009/district:1,District 1
+ocd-division/country:ca/csd:1206009/district:2,District 2
+ocd-division/country:ca/csd:1206009/district:3,District 3
+ocd-division/country:ca/csd:1206009/district:4,District 4
+ocd-division/country:ca/csd:1206009/district:5,District 5
+ocd-division/country:ca/csd:1206009/district:6,District 6
+ocd-division/country:ca/csd:1206009/district:7,District 7
+ocd-division/country:ca/cd:1207/district:1,District 1
+ocd-division/country:ca/cd:1207/district:2,District 2
+ocd-division/country:ca/cd:1207/district:3,District 3
+ocd-division/country:ca/cd:1207/district:4,District 4
+ocd-division/country:ca/cd:1207/district:5,District 5
+ocd-division/country:ca/cd:1207/district:6,District 6
+ocd-division/country:ca/cd:1207/district:7,District 7
+ocd-division/country:ca/cd:1207/district:8,District 8
+ocd-division/country:ca/cd:1207/district:9,District 9
+ocd-division/country:ca/csd:1208001/district:1,District 1
+ocd-division/country:ca/csd:1208001/district:2,District 2
+ocd-division/country:ca/csd:1208001/district:3,District 3
+ocd-division/country:ca/csd:1208001/district:4,District 4
+ocd-division/country:ca/csd:1208001/district:5,District 5
+ocd-division/country:ca/csd:1208001/district:6,District 6
+ocd-division/country:ca/csd:1208001/district:7,District 7
+ocd-division/country:ca/csd:1208001/district:8,District 8
+ocd-division/country:ca/csd:1208001/district:9,District 9
+ocd-division/country:ca/csd:1208001/district:10,District 10
+ocd-division/country:ca/csd:1208008/district:1,District 1
+ocd-division/country:ca/csd:1208008/district:2,District 2
+ocd-division/country:ca/csd:1208008/district:3,District 3
+ocd-division/country:ca/csd:1208008/district:4,District 4
+ocd-division/country:ca/csd:1208008/district:5,District 5
+ocd-division/country:ca/csd:1208008/district:6,District 6
+ocd-division/country:ca/csd:1208008/district:7,District 7
+ocd-division/country:ca/csd:1208008/district:8,District 8
+ocd-division/country:ca/csd:1208008/district:9,District 9
+ocd-division/country:ca/csd:1208008/district:10,District 10
+ocd-division/country:ca/csd:1208008/district:11,District 11
+ocd-division/country:ca/csd:1209034/district:1,Waverley—Fall River—Musquodoboit Valley
+ocd-division/country:ca/csd:1209034/district:2,Preston—Chezzetcook—Eastern Shore
+ocd-division/country:ca/csd:1209034/district:3,Dartmouth South—Eastern Passage
+ocd-division/country:ca/csd:1209034/district:4,Cole Harbour—Westphal
 ocd-division/country:ca/csd:1209034/district:5,Dartmouth Centre
-ocd-division/country:ca/csd:1209034/district:6,Harbourview - Burnside - Dartmouth East
+ocd-division/country:ca/csd:1209034/district:6,Harbourview—Burnside—Dartmouth East
 ocd-division/country:ca/csd:1209034/district:7,Halifax South Downtown
 ocd-division/country:ca/csd:1209034/district:8,Halifax Peninsula North
 ocd-division/country:ca/csd:1209034/district:9,Halifax West Armdale
-ocd-division/country:ca/csd:1209034/district:10,Halifax - Bedford Basin West
-ocd-division/country:ca/csd:1209034/district:11,Spryfield - Sambro Loop - Prospect Road
-ocd-division/country:ca/csd:1209034/district:12,Timberlea - Beechville - Clayton Park West
-ocd-division/country:ca/csd:1209034/district:13,Hammonds Plains - St. Margarets
-ocd-division/country:ca/csd:1209034/district:14,Middle/Upper Sackville - Beaver Bank - Lucasville
+ocd-division/country:ca/csd:1209034/district:10,Halifax—Bedford Basin West
+ocd-division/country:ca/csd:1209034/district:11,Spryfield—Sambro Loop—Prospect Road
+ocd-division/country:ca/csd:1209034/district:12,Timberlea—Beechville—Clayton Park—Wedgewood
+ocd-division/country:ca/csd:1209034/district:13,Hammonds Plains—St. Margarets
+ocd-division/country:ca/csd:1209034/district:14,Middle/Upper Sackville—Beaver Bank—Lucasville
 ocd-division/country:ca/csd:1209034/district:15,Lower Sackville
-ocd-division/country:ca/csd:1209034/district:16,Bedford - Wentworth
+ocd-division/country:ca/csd:1209034/district:16,Bedford—Wentworth
+ocd-division/country:ca/cd:1210/district:1,District 1
+ocd-division/country:ca/cd:1210/district:2,District 2
+ocd-division/country:ca/cd:1210/district:3,District 3
+ocd-division/country:ca/cd:1210/district:4,District 4
+ocd-division/country:ca/cd:1210/district:5,District 5
+ocd-division/country:ca/cd:1210/district:6,District 6
+ocd-division/country:ca/cd:1210/district:7,District 7
+ocd-division/country:ca/cd:1210/district:8,District 8
+ocd-division/country:ca/cd:1210/district:9,District 9
+ocd-division/country:ca/cd:1210/district:10,District 10
+ocd-division/country:ca/cd:1210/district:11,District 11
+ocd-division/country:ca/csd:1210006/ward:1,District 1
+ocd-division/country:ca/csd:1210006/ward:2,District 2
+ocd-division/country:ca/csd:1210006/ward:3,District 3
+ocd-division/country:ca/cd:1211/district:1,District 1
+ocd-division/country:ca/cd:1211/district:2,District 2
+ocd-division/country:ca/cd:1211/district:3,District 3
+ocd-division/country:ca/cd:1211/district:4,District 4
+ocd-division/country:ca/cd:1211/district:5,District 5
+ocd-division/country:ca/cd:1211/district:6,District 6
+ocd-division/country:ca/cd:1211/district:7,District 7
+ocd-division/country:ca/cd:1211/district:8,District 8
+ocd-division/country:ca/cd:1211/district:9,District 9
+ocd-division/country:ca/cd:1211/district:10,District 10
+ocd-division/country:ca/csd:1212004/district:1,District 1
+ocd-division/country:ca/csd:1212004/district:2,District 2
+ocd-division/country:ca/csd:1212004/district:3,District 3
+ocd-division/country:ca/csd:1212004/district:4,District 4
+ocd-division/country:ca/csd:1212004/district:5,District 5
+ocd-division/country:ca/csd:1212004/district:6,District 6
+ocd-division/country:ca/csd:1212004/district:7,District 7
+ocd-division/country:ca/csd:1212004/district:8,District 8
+ocd-division/country:ca/csd:1212004/district:9,District 9
+ocd-division/country:ca/csd:1212004/district:10,District 10
+ocd-division/country:ca/csd:1212004/district:11,District 11
+ocd-division/country:ca/csd:1212004/district:12,District 12
+ocd-division/country:ca/csd:1212009/ward:1,District 1
+ocd-division/country:ca/csd:1212009/ward:2,District 2
+ocd-division/country:ca/csd:1212014/ward:1,District 1
+ocd-division/country:ca/csd:1212014/ward:2,District 2
+ocd-division/country:ca/csd:1212014/ward:3,District 3
+ocd-division/country:ca/csd:1213001/district:1,District 1
+ocd-division/country:ca/csd:1213001/district:2,District 2
+ocd-division/country:ca/csd:1213001/district:4,District 4
+ocd-division/country:ca/csd:1213001/district:5,District 5
+ocd-division/country:ca/csd:1213001/district:6,District 6
+ocd-division/country:ca/csd:1213001/district:7,District 7
+ocd-division/country:ca/csd:1213001/district:8,District 8
+ocd-division/country:ca/csd:1213004/district:1,District 1
+ocd-division/country:ca/csd:1213004/district:2,District 2
+ocd-division/country:ca/csd:1213004/district:3,District 3
+ocd-division/country:ca/csd:1213004/district:4,District 4
+ocd-division/country:ca/csd:1213004/district:5,District 5
+ocd-division/country:ca/csd:1213004/district:6,District 6
+ocd-division/country:ca/csd:1213004/district:7,District 7
+ocd-division/country:ca/csd:1213004/district:8,District 8
+ocd-division/country:ca/csd:1214002/district:1,District 1
+ocd-division/country:ca/csd:1214002/district:2,District 2
+ocd-division/country:ca/csd:1214002/district:3,District 3
+ocd-division/country:ca/csd:1214002/district:4,District 4
+ocd-division/country:ca/csd:1214002/district:5,District 5
+ocd-division/country:ca/csd:1214002/district:6,District 6
+ocd-division/country:ca/csd:1214002/district:7,District 7
+ocd-division/country:ca/csd:1214002/district:8,District 8
+ocd-division/country:ca/csd:1214002/district:9,District 9
+ocd-division/country:ca/csd:1214002/district:10,District 10
+ocd-division/country:ca/cd:1215/district:1,District 1
+ocd-division/country:ca/cd:1215/district:2,District 2
+ocd-division/country:ca/cd:1215/district:3,District 3
+ocd-division/country:ca/cd:1215/district:4,District 4
+ocd-division/country:ca/cd:1215/district:5,District 5
+ocd-division/country:ca/cd:1215/district:6,District 6
+ocd-division/country:ca/cd:1216/district:1,District 1
+ocd-division/country:ca/cd:1216/district:2,District 2
+ocd-division/country:ca/cd:1216/district:3,District 3
+ocd-division/country:ca/cd:1216/district:4,District 4
+ocd-division/country:ca/cd:1216/district:5,District 5
 ocd-division/country:ca/csd:1217030/district:1,District 1
 ocd-division/country:ca/csd:1217030/district:2,District 2
 ocd-division/country:ca/csd:1217030/district:3,District 3
@@ -78,6 +237,14 @@ ocd-division/country:ca/csd:1217030/district:9,District 9
 ocd-division/country:ca/csd:1217030/district:10,District 10
 ocd-division/country:ca/csd:1217030/district:11,District 11
 ocd-division/country:ca/csd:1217030/district:12,District 12
+ocd-division/country:ca/cd:1218/district:1,District 1
+ocd-division/country:ca/cd:1218/district:2,District 2
+ocd-division/country:ca/cd:1218/district:3,District 3
+ocd-division/country:ca/cd:1218/district:4,District 4
+ocd-division/country:ca/cd:1218/district:5,District 5
+ocd-division/country:ca/cd:1218/district:6,District 6
+ocd-division/country:ca/cd:1218/district:7,District 7
+ocd-division/country:ca/cd:1218/district:8,District 8
 ocd-division/country:ca/csd:1301006/ward:1,Ward 1
 ocd-division/country:ca/csd:1301006/ward:2,Ward 2
 ocd-division/country:ca/csd:1301006/ward:3,Ward 3
@@ -112,22 +279,28 @@ ocd-division/country:ca/csd:1307045/ward:2,Ward 2
 ocd-division/country:ca/csd:1307045/ward:3,Ward 3
 ocd-division/country:ca/csd:1307045/ward:4,Ward 4
 ocd-division/country:ca/csd:1307045/ward:5,Ward 5
+ocd-division/country:ca/csd:1308002/ward:1,Ward 1
+ocd-division/country:ca/csd:1308002/ward:2,Ward 2
 ocd-division/country:ca/csd:1309027/ward:1,Ward 1
 ocd-division/country:ca/csd:1309027/ward:2,Ward 2
 ocd-division/country:ca/csd:1309027/ward:3,Ward 3
 ocd-division/country:ca/csd:1309027/ward:4,Ward 4
-ocd-division/country:ca/csd:1310032/ward:1,Douglas
-ocd-division/country:ca/csd:1310032/ward:2,Nashwaaksis
-ocd-division/country:ca/csd:1310032/ward:3,Fulton Heights/North Devon
-ocd-division/country:ca/csd:1310032/ward:4,South Devon
-ocd-division/country:ca/csd:1310032/ward:5,Marysville
-ocd-division/country:ca/csd:1310032/ward:6,Barker's Point
-ocd-division/country:ca/csd:1310032/ward:7,Lincoln
-ocd-division/country:ca/csd:1310032/ward:8,Skyline Acres
-ocd-division/country:ca/csd:1310032/ward:9,Odell Park/Parkside Drive
-ocd-division/country:ca/csd:1310032/ward:10,Sunshine Gardens/West End
-ocd-division/country:ca/csd:1310032/ward:11,UNB/East End
-ocd-division/country:ca/csd:1310032/ward:12,Silverwood/Garden Creek
+ocd-division/country:ca/csd:1310017/ward:1,Ward 1
+ocd-division/country:ca/csd:1310017/ward:2,Ward 2
+ocd-division/country:ca/csd:1310017/ward:3,Ward 3
+ocd-division/country:ca/csd:1310017/ward:4,Ward 4
+ocd-division/country:ca/csd:1310032/ward:1,Ward 1
+ocd-division/country:ca/csd:1310032/ward:2,Ward 2
+ocd-division/country:ca/csd:1310032/ward:3,Ward 3
+ocd-division/country:ca/csd:1310032/ward:4,Ward 4
+ocd-division/country:ca/csd:1310032/ward:5,Ward 5
+ocd-division/country:ca/csd:1310032/ward:6,Ward 6
+ocd-division/country:ca/csd:1310032/ward:7,Ward 7
+ocd-division/country:ca/csd:1310032/ward:8,Ward 8
+ocd-division/country:ca/csd:1310032/ward:9,Ward 9
+ocd-division/country:ca/csd:1310032/ward:10,Ward 10
+ocd-division/country:ca/csd:1310032/ward:11,Ward 11
+ocd-division/country:ca/csd:1310032/ward:12,Ward 12
 ocd-division/country:ca/csd:1311027/ward:1,Ward 1
 ocd-division/country:ca/csd:1311027/ward:2,Ward 2
 ocd-division/country:ca/csd:1312019/ward:north_ward,North Ward
@@ -136,15 +309,24 @@ ocd-division/country:ca/csd:1313027/ward:1,Ward 1
 ocd-division/country:ca/csd:1313027/ward:2,Ward 2
 ocd-division/country:ca/csd:1313027/ward:3,Ward 3
 ocd-division/country:ca/csd:1313027/ward:4,Ward 4
-ocd-division/country:ca/csd:1314019/ward:1,Ward 1
-ocd-division/country:ca/csd:1314019/ward:2,Ward 2
-ocd-division/country:ca/csd:1314019/ward:3,Ward 3
-ocd-division/country:ca/csd:1314019/ward:4,Ward 4
+ocd-division/country:ca/csd:1314013/ward:1,Ward 1
+ocd-division/country:ca/csd:1314013/ward:2,Ward 2
+ocd-division/country:ca/csd:1314013/ward:3,Ward 3
+ocd-division/country:ca/csd:1314020/ward:1,Ward 1
+ocd-division/country:ca/csd:1314020/ward:2,Ward 2
+ocd-division/country:ca/csd:1314020/ward:3,Ward 3
+ocd-division/country:ca/csd:1314020/ward:4,Ward 4
 ocd-division/country:ca/csd:1314025/ward:1,Ward 1
 ocd-division/country:ca/csd:1314025/ward:2,Ward 2
 ocd-division/country:ca/csd:1314025/ward:3,Ward 3
-ocd-division/country:ca/csd:1315015/ward:ward_a,Ward A
-ocd-division/country:ca/csd:1315015/ward:ward_b,Ward B
+ocd-division/country:ca/csd:1315002/ward:1,Ward 1
+ocd-division/country:ca/csd:1315002/ward:2,Ward 2
+ocd-division/country:ca/csd:1315002/ward:3,Ward 3
+ocd-division/country:ca/csd:1315002/ward:4,Ward 4
+ocd-division/country:ca/csd:1315002/ward:5,Ward 5
+ocd-division/country:ca/csd:1315002/ward:6,Ward 6
+ocd-division/country:ca/csd:1315002/ward:7,Ward 7
+ocd-division/country:ca/csd:1315002/ward:8,Ward 8
 ocd-division/country:ca/csd:1315027/ward:1,Ward 1
 ocd-division/country:ca/csd:1315027/ward:2,Ward 2
 ocd-division/country:ca/csd:1315027/ward:3,Ward 3
@@ -303,12 +485,12 @@ ocd-division/country:ca/csd:2415058/district:3,District 3
 ocd-division/country:ca/csd:2415058/district:4,District 4
 ocd-division/country:ca/csd:2415058/district:5,District 5
 ocd-division/country:ca/csd:2415058/district:6,District 6
-ocd-division/country:ca/csd:2416013/district:1,District no 1
-ocd-division/country:ca/csd:2416013/district:2,District no 2
-ocd-division/country:ca/csd:2416013/district:3,District no 3
-ocd-division/country:ca/csd:2416013/district:4,District no 4
-ocd-division/country:ca/csd:2416013/district:5,District no 5
-ocd-division/country:ca/csd:2416013/district:6,District no 6
+ocd-division/country:ca/csd:2416013/district:1,District 1
+ocd-division/country:ca/csd:2416013/district:2,District 2
+ocd-division/country:ca/csd:2416013/district:3,District 3
+ocd-division/country:ca/csd:2416013/district:4,District 4
+ocd-division/country:ca/csd:2416013/district:5,District 5
+ocd-division/country:ca/csd:2416013/district:6,District 6
 ocd-division/country:ca/csd:2416055/district:1,District 1
 ocd-division/country:ca/csd:2416055/district:2,District 2
 ocd-division/country:ca/csd:2416055/district:3,District 3
@@ -432,6 +614,9 @@ ocd-division/country:ca/csd:2423072/district:3,District 3
 ocd-division/country:ca/csd:2423072/district:4,District 4
 ocd-division/country:ca/csd:2423072/district:5,District 5
 ocd-division/country:ca/csd:2423072/district:6,District 6
+ocd-division/country:ca/csd:2425213/borough:1,Desjardins
+ocd-division/country:ca/csd:2425213/borough:2,Les Chutes-de-la-Chaudière-Est
+ocd-division/country:ca/csd:2425213/borough:3,Les Chutes-de-la-Chaudière-Ouest
 ocd-division/country:ca/csd:2425213/district:1,District 1
 ocd-division/country:ca/csd:2425213/district:2,District 2
 ocd-division/country:ca/csd:2425213/district:3,District 3
@@ -695,27 +880,27 @@ ocd-division/country:ca/csd:2443027/borough:3,Lennoxville
 ocd-division/country:ca/csd:2443027/borough:4,Mont-Bellevue
 ocd-division/country:ca/csd:2443027/borough:5,Rock Rorest—Saint-Élie—Deauville
 ocd-division/country:ca/csd:2443027/borough:6,Jacques-Cartier
-ocd-division/country:ca/csd:2443027/district:11,de Beauvoir
-ocd-division/country:ca/csd:2443027/district:12,des Moulins
-ocd-division/country:ca/csd:2443027/district:21,du Pin-Solitaire
-ocd-division/country:ca/csd:2443027/district:22,des Quatre-Saisons
-ocd-division/country:ca/csd:2443027/district:23,de Desranleau
-ocd-division/country:ca/csd:2443027/district:24,de Lavigerie
-ocd-division/country:ca/csd:2443027/district:25,de Marie-Rivier
-ocd-division/country:ca/csd:2443027/district:31,d'Uplands
-ocd-division/country:ca/csd:2443027/district:32,de Fairview
-ocd-division/country:ca/csd:2443027/district:41,du Centre-Sud
-ocd-division/country:ca/csd:2443027/district:42,d'Ascot
-ocd-division/country:ca/csd:2443027/district:43,de la Croix-Lumineuse
-ocd-division/country:ca/csd:2443027/district:44,de l'Université
-ocd-division/country:ca/csd:2443027/district:51,de Deauville
-ocd-division/country:ca/csd:2443027/district:52,des Châteaux-d'Eau
-ocd-division/country:ca/csd:2443027/district:53,de Rock Forest
-ocd-division/country:ca/csd:2443027/district:54,de Saint-Élie
-ocd-division/country:ca/csd:2443027/district:61,de Beckett
-ocd-division/country:ca/csd:2443027/district:62,du Domaine-Howard
-ocd-division/country:ca/csd:2443027/district:63,de Montcalm
-ocd-division/country:ca/csd:2443027/district:64,du Carrefour
+ocd-division/country:ca/csd:2443027/district:1.1,de Beauvoir
+ocd-division/country:ca/csd:2443027/district:1.2,des Moulins
+ocd-division/country:ca/csd:2443027/district:2.1,du Pin-Solitaire
+ocd-division/country:ca/csd:2443027/district:2.2,des Quatre-Saisons
+ocd-division/country:ca/csd:2443027/district:2.3,de Desranleau
+ocd-division/country:ca/csd:2443027/district:2.4,de Lavigerie
+ocd-division/country:ca/csd:2443027/district:2.5,de Marie-Rivier
+ocd-division/country:ca/csd:2443027/district:3.1,d'Uplands
+ocd-division/country:ca/csd:2443027/district:3.2,de Fairview
+ocd-division/country:ca/csd:2443027/district:4.1,du Centre-Sud
+ocd-division/country:ca/csd:2443027/district:4.2,d'Ascot
+ocd-division/country:ca/csd:2443027/district:4.3,de la Croix-Lumineuse
+ocd-division/country:ca/csd:2443027/district:4.4,de l'Université
+ocd-division/country:ca/csd:2443027/district:5.1,de Deauville
+ocd-division/country:ca/csd:2443027/district:5.2,des Châteaux-d'Eau
+ocd-division/country:ca/csd:2443027/district:5.3,de Rock Forest
+ocd-division/country:ca/csd:2443027/district:5.4,de Saint-Élie
+ocd-division/country:ca/csd:2443027/district:6.1,de Beckett
+ocd-division/country:ca/csd:2443027/district:6.2,du Domaine-Howard
+ocd-division/country:ca/csd:2443027/district:6.3,de Montcalm
+ocd-division/country:ca/csd:2443027/district:6.4,du Carrefour
 ocd-division/country:ca/csd:2444071/district:1,District 1
 ocd-division/country:ca/csd:2444071/district:2,District 2
 ocd-division/country:ca/csd:2444071/district:3,District 3
@@ -1068,7 +1253,7 @@ ocd-division/country:ca/csd:2458227/district:12,Vieux-Saint-Hubert-la Savane
 ocd-division/country:ca/csd:2458227/district:13,Parc-de-la-Cité
 ocd-division/country:ca/csd:2458227/district:14,Iberville
 ocd-division/country:ca/csd:2458227/district:15,Maraîchers
-ocd-division/country:ca/csd:2459010/district:1,de la Belle-Rivière - Ringuet
+ocd-division/country:ca/csd:2459010/district:1,de la Belle-Rivière—Ringuet
 ocd-division/country:ca/csd:2459010/district:2,du Moulin
 ocd-division/country:ca/csd:2459010/district:3,de la Vallée
 ocd-division/country:ca/csd:2459010/district:4,du Rucher
@@ -1283,74 +1468,74 @@ ocd-division/country:ca/csd:2466023/borough:6,L'Île-Bizard—Sainte-Geneviève
 ocd-division/country:ca/csd:2466023/borough:7,Mercier—Hochelaga-Maisonneuve
 ocd-division/country:ca/csd:2466023/borough:8,Montréal-Nord
 ocd-division/country:ca/csd:2466023/borough:9,Outremont
-ocd-division/country:ca/csd:2466023/borough:10,Pierrefond-Roxboro
-ocd-division/country:ca/csd:2466023/borough:11,Le Plateau-Mont-Royal
+ocd-division/country:ca/csd:2466023/borough:10,Pierrefonds-Roxboro
+ocd-division/country:ca/csd:2466023/borough:11,Plateau-Mont-Royal
 ocd-division/country:ca/csd:2466023/borough:12,Rivière-des-Prairies—Pointe-aux-Trembles
-ocd-division/country:ca/csd:2466023/borough:13,Rosemont—La-Petite-Patrie
+ocd-division/country:ca/csd:2466023/borough:13,Rosemont—La Petite-Patrie
 ocd-division/country:ca/csd:2466023/borough:14,Saint-Laurent
 ocd-division/country:ca/csd:2466023/borough:15,Saint-Léonard
-ocd-division/country:ca/csd:2466023/borough:16,Le Sud-Ouest
+ocd-division/country:ca/csd:2466023/borough:16,Sud-Ouest
 ocd-division/country:ca/csd:2466023/borough:17,Verdun
 ocd-division/country:ca/csd:2466023/borough:18,Ville-Marie
 ocd-division/country:ca/csd:2466023/borough:19,Villeray—Saint-Michel—Parc-Extension
-ocd-division/country:ca/csd:2466023/district:11,du Sault-au-Récollet
-ocd-division/country:ca/csd:2466023/district:12,de Saint-Sulpice
-ocd-division/country:ca/csd:2466023/district:13,d'Ahuntsic
-ocd-division/country:ca/csd:2466023/district:14,de Bordeaux-Cartierville
-ocd-division/country:ca/csd:2466023/district:21,de l'Ouest
-ocd-division/country:ca/csd:2466023/district:22,de l'Est
-ocd-division/country:ca/csd:2466023/district:23,du Centre
-ocd-division/country:ca/csd:2466023/district:31,Darlington
-ocd-division/country:ca/csd:2466023/district:32,Côte-des-Neiges
-ocd-division/country:ca/csd:2466023/district:33,Snowdon
-ocd-division/country:ca/csd:2466023/district:34,Notre-Dame-de-Grâce
-ocd-division/country:ca/csd:2466023/district:35,Loyola
-ocd-division/country:ca/csd:2466023/district:41,du Canal
-ocd-division/country:ca/csd:2466023/district:42,J.-Émery-Provost
-ocd-division/country:ca/csd:2466023/district:43,Fort-Rolland
-ocd-division/country:ca/csd:2466023/district:51,Sault-Saint-Louis
-ocd-division/country:ca/csd:2466023/district:52,Cecil-P.-Newman
-ocd-division/country:ca/csd:2466023/district:61,Pierre-Foretier
-ocd-division/country:ca/csd:2466023/district:62,Denis-Benjamin-Viger
-ocd-division/country:ca/csd:2466023/district:63,Jacques-Bizard
-ocd-division/country:ca/csd:2466023/district:64,Sainte-Geneviève
-ocd-division/country:ca/csd:2466023/district:71,Tétreaultville
-ocd-division/country:ca/csd:2466023/district:72,Maisonneuve-Longue-Pointe
-ocd-division/country:ca/csd:2466023/district:73,Hochelaga
-ocd-division/country:ca/csd:2466023/district:74,Louis-Riel
-ocd-division/country:ca/csd:2466023/district:81,Marie-Clarac
-ocd-division/country:ca/csd:2466023/district:82,Ovide-Clermont
-ocd-division/country:ca/csd:2466023/district:91,Claude-Ryan
-ocd-division/country:ca/csd:2466023/district:92,Joseph-Beaubien
-ocd-division/country:ca/csd:2466023/district:93,Robert-Bourassa
-ocd-division/country:ca/csd:2466023/district:94,Jeanne-Sauvé
-ocd-division/country:ca/csd:2466023/district:101,Est (Pierrefonds-Roxboro)
-ocd-division/country:ca/csd:2466023/district:102,Ouest (Pierrefonds-Roxboro)
-ocd-division/country:ca/csd:2466023/district:111,Mile-End
-ocd-division/country:ca/csd:2466023/district:112,DeLorimier
-ocd-division/country:ca/csd:2466023/district:113,Jeanne-Mance
-ocd-division/country:ca/csd:2466023/district:121,La Pointe-aux-Prairies
-ocd-division/country:ca/csd:2466023/district:122,Pointe-aux-Trembles
-ocd-division/country:ca/csd:2466023/district:123,Rivière-des-Prairies
-ocd-division/country:ca/csd:2466023/district:131,Saint-Édouard
-ocd-division/country:ca/csd:2466023/district:132,Étienne-Desmarteaux
-ocd-division/country:ca/csd:2466023/district:133,Vieux-Rosemont
-ocd-division/country:ca/csd:2466023/district:134,Marie-Victorin
-ocd-division/country:ca/csd:2466023/district:141,Côte-de-Liesse
-ocd-division/country:ca/csd:2466023/district:142,Norman-McLaren
-ocd-division/country:ca/csd:2466023/district:151,Saint-Léonard-Est
-ocd-division/country:ca/csd:2466023/district:152,Saint-Léonard-Ouest
-ocd-division/country:ca/csd:2466023/district:161,St-Henri-Petite-Bourgogne-Pte-St-Charles
-ocd-division/country:ca/csd:2466023/district:162,Saint-Paul-Émard
-ocd-division/country:ca/csd:2466023/district:171,Champlain-L'Île-des-Soeurs
-ocd-division/country:ca/csd:2466023/district:172,Desmarchais-Crawford
-ocd-division/country:ca/csd:2466023/district:181,Peter-McGill
-ocd-division/country:ca/csd:2466023/district:182,Saint-Jacques
-ocd-division/country:ca/csd:2466023/district:183,Sainte-Marie
-ocd-division/country:ca/csd:2466023/district:191,Saint-Michel
-ocd-division/country:ca/csd:2466023/district:192,François-Perrault
-ocd-division/country:ca/csd:2466023/district:193,Villeray
-ocd-division/country:ca/csd:2466023/district:194,Parc-Extension
+ocd-division/country:ca/csd:2466023/district:1.1,Sault-au-Récollet
+ocd-division/country:ca/csd:2466023/district:1.2,Saint-Sulpice
+ocd-division/country:ca/csd:2466023/district:1.3,Ahuntsic
+ocd-division/country:ca/csd:2466023/district:1.4,Bordeaux-Cartierville
+ocd-division/country:ca/csd:2466023/district:2.1,de l'Ouest
+ocd-division/country:ca/csd:2466023/district:2.2,de l'Est
+ocd-division/country:ca/csd:2466023/district:2.3,du Centre
+ocd-division/country:ca/csd:2466023/district:3.1,Darlington
+ocd-division/country:ca/csd:2466023/district:3.2,Côte-des-Neiges
+ocd-division/country:ca/csd:2466023/district:3.3,Snowdon
+ocd-division/country:ca/csd:2466023/district:3.4,Notre-Dame-de-Grâce
+ocd-division/country:ca/csd:2466023/district:3.5,Loyola
+ocd-division/country:ca/csd:2466023/district:4.1,du Canal
+ocd-division/country:ca/csd:2466023/district:4.2,J.-Émery-Provost
+ocd-division/country:ca/csd:2466023/district:4.3,Fort-Rolland
+ocd-division/country:ca/csd:2466023/district:5.1,Sault-Saint-Louis
+ocd-division/country:ca/csd:2466023/district:5.2,Cecil-P.-Newman
+ocd-division/country:ca/csd:2466023/district:6.1,Pierre-Foretier
+ocd-division/country:ca/csd:2466023/district:6.2,Denis-Benjamin-Viger
+ocd-division/country:ca/csd:2466023/district:6.3,Jacques-Bizard
+ocd-division/country:ca/csd:2466023/district:6.4,Sainte-Geneviève
+ocd-division/country:ca/csd:2466023/district:7.1,Tétreaultville
+ocd-division/country:ca/csd:2466023/district:7.2,Maisonneuve—Longue-Pointe
+ocd-division/country:ca/csd:2466023/district:7.3,Hochelaga
+ocd-division/country:ca/csd:2466023/district:7.4,Louis-Riel
+ocd-division/country:ca/csd:2466023/district:8.1,Marie-Clarac
+ocd-division/country:ca/csd:2466023/district:8.2,Ovide-Clermont
+ocd-division/country:ca/csd:2466023/district:9.1,Claude-Ryan
+ocd-division/country:ca/csd:2466023/district:9.2,Joseph-Beaubien
+ocd-division/country:ca/csd:2466023/district:9.3,Robert-Bourassa
+ocd-division/country:ca/csd:2466023/district:9.4,Jeanne-Sauvé
+ocd-division/country:ca/csd:2466023/district:10.1,Bois-de-Liesse
+ocd-division/country:ca/csd:2466023/district:10.2,Cap-Saint-Jacques
+ocd-division/country:ca/csd:2466023/district:11.1,Mile-End
+ocd-division/country:ca/csd:2466023/district:11.2,DeLorimier
+ocd-division/country:ca/csd:2466023/district:11.3,Jeanne-Mance
+ocd-division/country:ca/csd:2466023/district:12.1,La Pointe-aux-Prairies
+ocd-division/country:ca/csd:2466023/district:12.2,Pointe-aux-Trembles
+ocd-division/country:ca/csd:2466023/district:12.3,Rivière-des-Prairies
+ocd-division/country:ca/csd:2466023/district:13.1,Saint-Édouard
+ocd-division/country:ca/csd:2466023/district:13.2,Étienne-Desmarteau
+ocd-division/country:ca/csd:2466023/district:13.3,Vieux-Rosemont
+ocd-division/country:ca/csd:2466023/district:13.4,Marie-Victorin
+ocd-division/country:ca/csd:2466023/district:14.1,Côte-de-Liesse
+ocd-division/country:ca/csd:2466023/district:14.2,Norman-McLaren
+ocd-division/country:ca/csd:2466023/district:15.1,Saint-Léonard-Est
+ocd-division/country:ca/csd:2466023/district:15.2,Saint-Léonard-Ouest
+ocd-division/country:ca/csd:2466023/district:16.1,Saint-Henri—Petite-Bourgogne—Pointe-Saint-Charles
+ocd-division/country:ca/csd:2466023/district:16.2,Saint-Paul—Émard
+ocd-division/country:ca/csd:2466023/district:17.1,Champlain—L'Île-des-Soeurs
+ocd-division/country:ca/csd:2466023/district:17.2,Desmarchais-Crawford
+ocd-division/country:ca/csd:2466023/district:18.1,Peter-McGill
+ocd-division/country:ca/csd:2466023/district:18.2,Saint-Jacques
+ocd-division/country:ca/csd:2466023/district:18.3,Sainte-Marie
+ocd-division/country:ca/csd:2466023/district:19.1,Saint-Michel
+ocd-division/country:ca/csd:2466023/district:19.2,François-Perrault
+ocd-division/country:ca/csd:2466023/district:19.3,Villeray
+ocd-division/country:ca/csd:2466023/district:19.4,Parc-Extension
 ocd-division/country:ca/csd:2466032/district:1,District 1
 ocd-division/country:ca/csd:2466032/district:2,District 2
 ocd-division/country:ca/csd:2466032/district:3,District 3
@@ -1780,13 +1965,13 @@ ocd-division/country:ca/csd:2478095/district:3,District 3
 ocd-division/country:ca/csd:2478095/district:4,District 4
 ocd-division/country:ca/csd:2478095/district:5,District 5
 ocd-division/country:ca/csd:2478095/district:6,District 6
-ocd-division/country:ca/csd:2478102/district:1,Station-Mont-Tremblant - Lac-Ouimet
+ocd-division/country:ca/csd:2478102/district:1,Station-Mont-Tremblant—Lac-Ouimet
 ocd-division/country:ca/csd:2478102/district:2,Lac-Mercier
-ocd-division/country:ca/csd:2478102/district:3,Lac-Lamoureux - Lac-Fortier
+ocd-division/country:ca/csd:2478102/district:3,Lac-Lamoureux—Lac-Fortier
 ocd-division/country:ca/csd:2478102/district:4,Mont-Daim
-ocd-division/country:ca/csd:2478102/district:5,Saint-Jovite - Des Ruisseaux
-ocd-division/country:ca/csd:2478102/district:6,Saint-Jovite - Centre-Ouest
-ocd-division/country:ca/csd:2478102/district:7,Saint-Jovite - Centre-Est
+ocd-division/country:ca/csd:2478102/district:5,Saint-Jovite—Des Ruisseaux
+ocd-division/country:ca/csd:2478102/district:6,Saint-Jovite—Centre-Ouest
+ocd-division/country:ca/csd:2478102/district:7,Saint-Jovite—Centre-Est
 ocd-division/country:ca/csd:2478102/district:8,Lac-Maskinongé
 ocd-division/country:ca/csd:2479078/district:1,District 1
 ocd-division/country:ca/csd:2479078/district:2,District 2
@@ -1948,13 +2133,13 @@ ocd-division/country:ca/csd:2493035/district:4,District 4
 ocd-division/country:ca/csd:2493035/district:5,District 5
 ocd-division/country:ca/csd:2493035/district:6,District 6
 ocd-division/country:ca/csd:2493042/district:1,Delisle
-ocd-division/country:ca/csd:2493042/district:2,Isle-Maligne - Albert-Naud
+ocd-division/country:ca/csd:2493042/district:2,Isle-Maligne—Albert-Naud
 ocd-division/country:ca/csd:2493042/district:3,Melançon
 ocd-division/country:ca/csd:2493042/district:4,Damase-Boulanger
 ocd-division/country:ca/csd:2493042/district:5,Saint-Pierre
 ocd-division/country:ca/csd:2493042/district:6,Champagnat
 ocd-division/country:ca/csd:2493042/district:7,Scott
-ocd-division/country:ca/csd:2493042/district:8,Signay - Labarre
+ocd-division/country:ca/csd:2493042/district:8,Signay—Labarre
 ocd-division/country:ca/csd:2493045/district:1,District 1
 ocd-division/country:ca/csd:2493045/district:2,District 2
 ocd-division/country:ca/csd:2493045/district:3,District 3
@@ -2077,30 +2262,20 @@ ocd-division/country:ca/csd:3506008/ward:20,Osgoode
 ocd-division/country:ca/csd:3506008/ward:21,Rideau-Goulbourn
 ocd-division/country:ca/csd:3506008/ward:22,Gloucester-South Nepean
 ocd-division/country:ca/csd:3506008/ward:23,Kanata South
-ocd-division/country:ca/csd:3510010/district:1,Countryside
-ocd-division/country:ca/csd:3510010/district:2,Loyalist-Cataraqui
-ocd-division/country:ca/csd:3510010/district:3,Collins-Bayridge
-ocd-division/country:ca/csd:3510010/district:4,Lakeside
-ocd-division/country:ca/csd:3510010/district:5,Portsmouth
-ocd-division/country:ca/csd:3510010/district:6,Trillium
-ocd-division/country:ca/csd:3510010/district:7,Cataraqui
-ocd-division/country:ca/csd:3510010/district:8,Kingscourt-Strathcona
-ocd-division/country:ca/csd:3510010/district:9,Williamsville
-ocd-division/country:ca/csd:3510010/district:10,Sydenham
-ocd-division/country:ca/csd:3510010/district:11,King's Town
-ocd-division/country:ca/csd:3510010/district:12,Pittsburgh
 ocd-division/country:ca/csd:3510010/ward:1,Countryside
 ocd-division/country:ca/csd:3510010/ward:2,Loyalist-Cataraqui
 ocd-division/country:ca/csd:3510010/ward:3,Collins-Bayridge
 ocd-division/country:ca/csd:3510010/ward:4,Lakeside
 ocd-division/country:ca/csd:3510010/ward:5,Portsmouth
 ocd-division/country:ca/csd:3510010/ward:6,Trillium
-ocd-division/country:ca/csd:3510010/ward:7,Cataraqui
-ocd-division/country:ca/csd:3510010/ward:8,Kingscourt-Strathcona
+ocd-division/country:ca/csd:3510010/ward:7,Kingscourt-Rideau
+ocd-division/country:ca/csd:3510010/ward:8,Meadowbrook-Strathcona
 ocd-division/country:ca/csd:3510010/ward:9,Williamsville
 ocd-division/country:ca/csd:3510010/ward:10,Sydenham
 ocd-division/country:ca/csd:3510010/ward:11,King's Town
 ocd-division/country:ca/csd:3510010/ward:12,Pittsburgh
+ocd-division/country:ca/csd:3512005/ward:1,Ward 1
+ocd-division/country:ca/csd:3512005/ward:2,Ward 2
 ocd-division/country:ca/csd:3515014/ward:1,Otonabee
 ocd-division/country:ca/csd:3515014/ward:2,Monaghan
 ocd-division/country:ca/csd:3515014/ward:3,Town
@@ -2156,6 +2331,12 @@ ocd-division/country:ca/csd:3519038/ward:3,Ward 3
 ocd-division/country:ca/csd:3519038/ward:4,Ward 4
 ocd-division/country:ca/csd:3519038/ward:5,Ward 5
 ocd-division/country:ca/csd:3519038/ward:6,Ward 6
+ocd-division/country:ca/csd:3519044/ward:1,Ward 1
+ocd-division/country:ca/csd:3519044/ward:2,Ward 2
+ocd-division/country:ca/csd:3519044/ward:3,Ward 3
+ocd-division/country:ca/csd:3519044/ward:4,Ward 4
+ocd-division/country:ca/csd:3519044/ward:5,Ward 5
+ocd-division/country:ca/csd:3519044/ward:6,Ward 6
 ocd-division/country:ca/csd:3519048/ward:1,Ward 1
 ocd-division/country:ca/csd:3519048/ward:2,Ward 2
 ocd-division/country:ca/csd:3519048/ward:3,Ward 3
@@ -2163,48 +2344,54 @@ ocd-division/country:ca/csd:3519048/ward:4,Ward 4
 ocd-division/country:ca/csd:3519048/ward:5,Ward 5
 ocd-division/country:ca/csd:3519048/ward:6,Ward 6
 ocd-division/country:ca/csd:3519048/ward:7,Ward 7
+ocd-division/country:ca/csd:3519049/ward:1,Ward 1
+ocd-division/country:ca/csd:3519049/ward:2,Ward 2
+ocd-division/country:ca/csd:3519049/ward:3,Ward 3
+ocd-division/country:ca/csd:3519049/ward:4,Ward 4
+ocd-division/country:ca/csd:3519049/ward:5,Ward 5
+ocd-division/country:ca/csd:3519049/ward:6,Ward 6
 ocd-division/country:ca/csd:3520005/ward:1,Etobicoke North (1)
 ocd-division/country:ca/csd:3520005/ward:2,Etobicoke North (2)
 ocd-division/country:ca/csd:3520005/ward:3,Etobicoke Centre (3)
 ocd-division/country:ca/csd:3520005/ward:4,Etobicoke Centre (4)
-ocd-division/country:ca/csd:3520005/ward:5,Etobicoke—Lakeshore (5)
-ocd-division/country:ca/csd:3520005/ward:6,Etobicoke—Lakeshore (6)
+ocd-division/country:ca/csd:3520005/ward:5,Etobicoke-Lakeshore (5)
+ocd-division/country:ca/csd:3520005/ward:6,Etobicoke-Lakeshore (6)
 ocd-division/country:ca/csd:3520005/ward:7,York West (7)
 ocd-division/country:ca/csd:3520005/ward:8,York West (8)
 ocd-division/country:ca/csd:3520005/ward:9,York Centre (9)
 ocd-division/country:ca/csd:3520005/ward:10,York Centre (10)
-ocd-division/country:ca/csd:3520005/ward:11,York South—Weston (11)
-ocd-division/country:ca/csd:3520005/ward:12,York South—Weston (12)
-ocd-division/country:ca/csd:3520005/ward:13,Parkdale—High Park (13)
-ocd-division/country:ca/csd:3520005/ward:14,Parkdale—High Park (14)
-ocd-division/country:ca/csd:3520005/ward:15,Eglinton—Lawrence (15)
-ocd-division/country:ca/csd:3520005/ward:16,Eglinton—Lawrence (16)
+ocd-division/country:ca/csd:3520005/ward:11,York South-Weston (11)
+ocd-division/country:ca/csd:3520005/ward:12,York South-Weston (12)
+ocd-division/country:ca/csd:3520005/ward:13,Parkdale-High Park (13)
+ocd-division/country:ca/csd:3520005/ward:14,Parkdale-High Park (14)
+ocd-division/country:ca/csd:3520005/ward:15,Eglinton-Lawrence (15)
+ocd-division/country:ca/csd:3520005/ward:16,Eglinton-Lawrence (16)
 ocd-division/country:ca/csd:3520005/ward:17,Davenport (17)
 ocd-division/country:ca/csd:3520005/ward:18,Davenport (18)
-ocd-division/country:ca/csd:3520005/ward:19,Trinity—Spadina (19)
-ocd-division/country:ca/csd:3520005/ward:20,Trinity—Spadina (20)
+ocd-division/country:ca/csd:3520005/ward:19,Trinity-Spadina (19)
+ocd-division/country:ca/csd:3520005/ward:20,Trinity-Spadina (20)
 ocd-division/country:ca/csd:3520005/ward:21,St. Paul's (21)
 ocd-division/country:ca/csd:3520005/ward:22,St. Paul's (22)
 ocd-division/country:ca/csd:3520005/ward:23,Willowdale (23)
 ocd-division/country:ca/csd:3520005/ward:24,Willowdale (24)
 ocd-division/country:ca/csd:3520005/ward:25,Don Valley West (25)
 ocd-division/country:ca/csd:3520005/ward:26,Don Valley West (26)
-ocd-division/country:ca/csd:3520005/ward:27,Toronto Centre—Rosedale (27)
-ocd-division/country:ca/csd:3520005/ward:28,Toronto Centre—Rosedale (28)
-ocd-division/country:ca/csd:3520005/ward:29,Toronto—Danforth (29)
-ocd-division/country:ca/csd:3520005/ward:30,Toronto—Danforth (30)
-ocd-division/country:ca/csd:3520005/ward:31,Beaches—East York (31)
-ocd-division/country:ca/csd:3520005/ward:32,Beaches—East York (32)
+ocd-division/country:ca/csd:3520005/ward:27,Toronto Centre-Rosedale (27)
+ocd-division/country:ca/csd:3520005/ward:28,Toronto Centre-Rosedale (28)
+ocd-division/country:ca/csd:3520005/ward:29,Toronto-Danforth (29)
+ocd-division/country:ca/csd:3520005/ward:30,Toronto-Danforth (30)
+ocd-division/country:ca/csd:3520005/ward:31,Beaches-East York (31)
+ocd-division/country:ca/csd:3520005/ward:32,Beaches-East York (32)
 ocd-division/country:ca/csd:3520005/ward:33,Don Valley East (33)
 ocd-division/country:ca/csd:3520005/ward:34,Don Valley East (34)
 ocd-division/country:ca/csd:3520005/ward:35,Scarborough Southwest (35)
 ocd-division/country:ca/csd:3520005/ward:36,Scarborough Southwest (36)
 ocd-division/country:ca/csd:3520005/ward:37,Scarborough Centre (37)
 ocd-division/country:ca/csd:3520005/ward:38,Scarborough Centre (38)
-ocd-division/country:ca/csd:3520005/ward:39,Scarborough—Agincourt (39)
-ocd-division/country:ca/csd:3520005/ward:40,Scarborough—Agincourt (40)
-ocd-division/country:ca/csd:3520005/ward:41,Scarborough—Rouge River (41)
-ocd-division/country:ca/csd:3520005/ward:42,Scarborough—Rouge River (42)
+ocd-division/country:ca/csd:3520005/ward:39,Scarborough-Agincourt (39)
+ocd-division/country:ca/csd:3520005/ward:40,Scarborough-Agincourt (40)
+ocd-division/country:ca/csd:3520005/ward:41,Scarborough-Rouge River (41)
+ocd-division/country:ca/csd:3520005/ward:42,Scarborough-Rouge River (42)
 ocd-division/country:ca/csd:3520005/ward:43,Scarborough East (43)
 ocd-division/country:ca/csd:3520005/ward:44,Scarborough East (44)
 ocd-division/country:ca/csd:3521005/ward:1,Ward 1
@@ -2233,12 +2420,12 @@ ocd-division/country:ca/csd:3521024/ward:2,Ward 2
 ocd-division/country:ca/csd:3521024/ward:3,Ward 3
 ocd-division/country:ca/csd:3521024/ward:4,Ward 4
 ocd-division/country:ca/csd:3521024/ward:5,Ward 5
-ocd-division/country:ca/csd:3523008/ward:1,St. Patrick's
-ocd-division/country:ca/csd:3523008/ward:2,St. George's
-ocd-division/country:ca/csd:3523008/ward:3,St. John's
-ocd-division/country:ca/csd:3523008/ward:4,St. David's
-ocd-division/country:ca/csd:3523008/ward:5,St. Andrew's
-ocd-division/country:ca/csd:3523008/ward:6,St. Jame's
+ocd-division/country:ca/csd:3523008/ward:1,Ward 1
+ocd-division/country:ca/csd:3523008/ward:2,Ward 2
+ocd-division/country:ca/csd:3523008/ward:3,Ward 3
+ocd-division/country:ca/csd:3523008/ward:4,Ward 4
+ocd-division/country:ca/csd:3523008/ward:5,Ward 5
+ocd-division/country:ca/csd:3523008/ward:6,Ward 6
 ocd-division/country:ca/csd:3524001/ward:1,Ward 1
 ocd-division/country:ca/csd:3524001/ward:2,Ward 2
 ocd-division/country:ca/csd:3524001/ward:3,Ward 3
@@ -2259,6 +2446,10 @@ ocd-division/country:ca/csd:3524009/ward:5,Ward 5
 ocd-division/country:ca/csd:3524009/ward:6,Ward 6
 ocd-division/country:ca/csd:3524009/ward:7,Ward 7
 ocd-division/country:ca/csd:3524009/ward:8,Ward 8
+ocd-division/country:ca/csd:3524015/ward:1,Ward 1
+ocd-division/country:ca/csd:3524015/ward:2,Ward 2
+ocd-division/country:ca/csd:3524015/ward:3,Ward 3
+ocd-division/country:ca/csd:3524015/ward:4,Ward 4
 ocd-division/country:ca/csd:3525005/ward:1,Ward 1
 ocd-division/country:ca/csd:3525005/ward:2,Ward 2
 ocd-division/country:ca/csd:3525005/ward:3,Ward 3
@@ -2286,12 +2477,27 @@ ocd-division/country:ca/csd:3526053/ward:port_dalhousie,Port Dalhousie
 ocd-division/country:ca/csd:3526053/ward:st._andrew~s,St. Andrew's
 ocd-division/country:ca/csd:3526053/ward:st._george~s,St. George's
 ocd-division/country:ca/csd:3526053/ward:st._patrick~s,St. Patrick's
+ocd-division/country:ca/csd:3526057/ward:1,Ward 1
+ocd-division/country:ca/csd:3526057/ward:2,Ward 2
+ocd-division/country:ca/csd:3526057/ward:3,Ward 3
+ocd-division/country:ca/csd:3526057/ward:4,Ward 4
+ocd-division/country:ca/csd:3526065/ward:1,Ward 1
+ocd-division/country:ca/csd:3526065/ward:2,Ward 2
+ocd-division/country:ca/csd:3526065/ward:3,Ward 3
+ocd-division/country:ca/csd:3526065/ward:4,Ward 4
 ocd-division/country:ca/csd:3528018/ward:1,Ward 1
 ocd-division/country:ca/csd:3528018/ward:2,Ward 2
 ocd-division/country:ca/csd:3528018/ward:3,Ward 3
 ocd-division/country:ca/csd:3528018/ward:4,Ward 4
 ocd-division/country:ca/csd:3528018/ward:5,Ward 5
 ocd-division/country:ca/csd:3528018/ward:6,Ward 6
+ocd-division/country:ca/csd:3528052/ward:1,Ward 1
+ocd-division/country:ca/csd:3528052/ward:2,Ward 2
+ocd-division/country:ca/csd:3528052/ward:3,Ward 3
+ocd-division/country:ca/csd:3528052/ward:4,Ward 4
+ocd-division/country:ca/csd:3528052/ward:5,Ward 5
+ocd-division/country:ca/csd:3528052/ward:6,Ward 6
+ocd-division/country:ca/csd:3528052/ward:7,Ward 7
 ocd-division/country:ca/csd:3529006/ward:1,Ward 1
 ocd-division/country:ca/csd:3529006/ward:2,Ward 2
 ocd-division/country:ca/csd:3529006/ward:3,Ward 3
@@ -2337,12 +2543,12 @@ ocd-division/country:ca/csd:3530027/ward:4,Ward 4
 ocd-division/country:ca/csd:3530035/ward:1,Ward 1
 ocd-division/country:ca/csd:3530035/ward:2,Ward 2
 ocd-division/country:ca/csd:3530035/ward:3,Ward 3
-ocd-division/country:ca/csd:3536020/ward:1,West Kent
-ocd-division/country:ca/csd:3536020/ward:2,South Kent
-ocd-division/country:ca/csd:3536020/ward:3,East Kent
-ocd-division/country:ca/csd:3536020/ward:4,North Kent
-ocd-division/country:ca/csd:3536020/ward:5,Wallaceburg
-ocd-division/country:ca/csd:3536020/ward:6,Chatham
+ocd-division/country:ca/csd:3536020/ward:1,Ward 1
+ocd-division/country:ca/csd:3536020/ward:2,Ward 2
+ocd-division/country:ca/csd:3536020/ward:3,Ward 3
+ocd-division/country:ca/csd:3536020/ward:4,Ward 4
+ocd-division/country:ca/csd:3536020/ward:5,Ward 5
+ocd-division/country:ca/csd:3536020/ward:6,Ward 6
 ocd-division/country:ca/csd:3537039/ward:1,Ward 1
 ocd-division/country:ca/csd:3537039/ward:2,Ward 2
 ocd-division/country:ca/csd:3537039/ward:3,Ward 3
@@ -2367,6 +2573,16 @@ ocd-division/country:ca/csd:3539036/ward:11,Ward 11
 ocd-division/country:ca/csd:3539036/ward:12,Ward 12
 ocd-division/country:ca/csd:3539036/ward:13,Ward 13
 ocd-division/country:ca/csd:3539036/ward:14,Ward 14
+ocd-division/country:ca/csd:3543042/ward:1,Ward 1
+ocd-division/country:ca/csd:3543042/ward:2,Ward 2
+ocd-division/country:ca/csd:3543042/ward:3,Ward 3
+ocd-division/country:ca/csd:3543042/ward:4,Ward 4
+ocd-division/country:ca/csd:3543042/ward:5,Ward 5
+ocd-division/country:ca/csd:3543042/ward:6,Ward 6
+ocd-division/country:ca/csd:3543042/ward:7,Ward 7
+ocd-division/country:ca/csd:3543042/ward:8,Ward 8
+ocd-division/country:ca/csd:3543042/ward:9,Ward 9
+ocd-division/country:ca/csd:3543042/ward:10,Ward 10
 ocd-division/country:ca/csd:3553005/ward:1,Ward 1
 ocd-division/country:ca/csd:3553005/ward:2,Ward 2
 ocd-division/country:ca/csd:3553005/ward:3,Ward 3
@@ -2396,16 +2612,16 @@ ocd-division/country:ca/csd:4611040/ward:1,Old Kildonan
 ocd-division/country:ca/csd:4611040/ward:2,Mynarski
 ocd-division/country:ca/csd:4611040/ward:3,Point Douglas
 ocd-division/country:ca/csd:4611040/ward:4,Daniel McIntyre
-ocd-division/country:ca/csd:4611040/ward:5,St. James - Brooklands
+ocd-division/country:ca/csd:4611040/ward:5,St. James—Brooklands—Weston
 ocd-division/country:ca/csd:4611040/ward:6,St. Charles
-ocd-division/country:ca/csd:4611040/ward:7,Charleswood - Tuxedo
-ocd-division/country:ca/csd:4611040/ward:8,River Heights - Fort Garry
-ocd-division/country:ca/csd:4611040/ward:9,Fort Rouge - East Fort Garry
-ocd-division/country:ca/csd:4611040/ward:10,St. Norbert
+ocd-division/country:ca/csd:4611040/ward:7,Charleswood—Tuxedo—Whyte Ridge
+ocd-division/country:ca/csd:4611040/ward:8,River Heights—Fort Garry
+ocd-division/country:ca/csd:4611040/ward:9,Fort Rouge—East Fort Garry
+ocd-division/country:ca/csd:4611040/ward:10,South Winnipeg—St Norbert
 ocd-division/country:ca/csd:4611040/ward:11,St. Vital
 ocd-division/country:ca/csd:4611040/ward:12,St. Boniface
 ocd-division/country:ca/csd:4611040/ward:13,Transcona
-ocd-division/country:ca/csd:4611040/ward:14,Elmwood - East Kildonan
+ocd-division/country:ca/csd:4611040/ward:14,Elmwood—East Kildonan
 ocd-division/country:ca/csd:4611040/ward:15,North Kildonan
 ocd-division/country:ca/csd:4701022/division:1,Division 1
 ocd-division/country:ca/csd:4701022/division:2,Division 2
@@ -2640,6 +2856,15 @@ ocd-division/country:ca/csd:4717032/division:3,Division 3
 ocd-division/country:ca/csd:4717032/division:4,Division 4
 ocd-division/country:ca/csd:4717032/division:5,Division 5
 ocd-division/country:ca/csd:4717032/division:6,Division 6
+ocd-division/country:ca/csd:4806014/division:1,Ward 1
+ocd-division/country:ca/csd:4806014/division:2,Ward 2
+ocd-division/country:ca/csd:4806014/division:3,Ward 3
+ocd-division/country:ca/csd:4806014/division:4,Ward 4
+ocd-division/country:ca/csd:4806014/division:5,Ward 5
+ocd-division/country:ca/csd:4806014/division:6,Ward 6
+ocd-division/country:ca/csd:4806014/division:7,Ward 7
+ocd-division/country:ca/csd:4806014/division:8,Ward 8
+ocd-division/country:ca/csd:4806014/division:9,Ward 9
 ocd-division/country:ca/csd:4806016/ward:1,Ward 1
 ocd-division/country:ca/csd:4806016/ward:2,Ward 2
 ocd-division/country:ca/csd:4806016/ward:3,Ward 3
@@ -2654,6 +2879,13 @@ ocd-division/country:ca/csd:4806016/ward:11,Ward 11
 ocd-division/country:ca/csd:4806016/ward:12,Ward 12
 ocd-division/country:ca/csd:4806016/ward:13,Ward 13
 ocd-division/country:ca/csd:4806016/ward:14,Ward 14
+ocd-division/country:ca/csd:4811012/division:1,Division 1
+ocd-division/country:ca/csd:4811012/division:2,Division 2
+ocd-division/country:ca/csd:4811012/division:3,Division 3
+ocd-division/country:ca/csd:4811012/division:4,Division 4
+ocd-division/country:ca/csd:4811012/division:5,Division 5
+ocd-division/country:ca/csd:4811012/division:6,Division 6
+ocd-division/country:ca/csd:4811012/division:7,Division 7
 ocd-division/country:ca/csd:4811052/ward:1,Ward 1
 ocd-division/country:ca/csd:4811052/ward:2,Ward 2
 ocd-division/country:ca/csd:4811052/ward:3,Ward 3
@@ -2674,6 +2906,12 @@ ocd-division/country:ca/csd:4811061/ward:9,Ward 9
 ocd-division/country:ca/csd:4811061/ward:10,Ward 10
 ocd-division/country:ca/csd:4811061/ward:11,Ward 11
 ocd-division/country:ca/csd:4811061/ward:12,Ward 12
+ocd-division/country:ca/csd:4812004/ward:1,Ward 1
+ocd-division/country:ca/csd:4812004/ward:2,Ward 2
+ocd-division/country:ca/csd:4812004/ward:3,Ward 3
+ocd-division/country:ca/csd:4812004/ward:4,Ward 4
+ocd-division/country:ca/csd:4812004/ward:5,Ward 5
+ocd-division/country:ca/csd:4812004/ward:6,Ward 6
 ocd-division/country:ca/csd:4816037/ward:1,Ward 1
 ocd-division/country:ca/csd:4816037/ward:2,Ward 2
 ocd-division/country:ca/csd:4816037/ward:3,Ward 3

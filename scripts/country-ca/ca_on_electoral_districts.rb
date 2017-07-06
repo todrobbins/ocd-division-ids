@@ -6,17 +6,35 @@ require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 # Scrapes Ontario electoral district codes and names from elections.on.ca
 
 class ON < Runner
-  def names
-    puts CSV.generate_line(%w(id name name_fr))
-    # The shapefile from elections.on.ca has district names in all-caps.
-    # @see http://www.elections.on.ca/en-CA/Tools/ElectoralDistricts/PDEDS.htm
-    Nokogiri::HTML(open("http://www.elections.on.ca/en-CA/Tools/ElectoralDistricts/EDNames.htm")).css("table table tr:gt(1)").each do |tr|
-      texts = tr.css("td").map do |td|
-        td.text.normalize_space.sub(/\.(?=\S)/, ". ").sub('Chatham—Kent', 'Chatham-Kent').sub(/(?<=Lennox)(?=and)/, " ").sub(/(?<=London)(?=West)/, " ") # add missing space
-      end
+  def initialize(*args)
+    super
 
-      output("province:on/ed:", texts[0], texts[1], texts[2])
-    end
+    add_command({
+      :name        => "names-2015",
+      :description => "Prints a CSV of identifiers and English names",
+      :output_path => "identifiers/country-ca/province-on-electoral_districts-2015.csv",
+    })
+  end
+
+  def names
+    ShapefileParser.new(
+      "http://www.elections.on.ca/content/dam/NGW/sitecontent/2016/preo/shapefiles/Electoral%20District%20Shapefile.zip",
+      "province:on/ed:", {
+        :id => "ED_ID",
+        :name => lambda{|record| UnicodeUtils.downcase(record.attributes["ENGLISH_NA"].sub('CHATHAM--KENT--', 'CHATHAM-KENT--').gsub('--', '—')).gsub(/\b(?!(?:and|s|the)\b)(\w)/){UnicodeUtils.upcase($1)}},
+      }
+    ).run
+  end
+
+  def names_2015
+    ShapefileParser.new(
+      "http://www.elections.on.ca/content/dam/NGW/sitecontent/2017/preo/2018%20Electoral%20District%20Shapefile.zip",
+      "province:on/ed:", {
+        :id => lambda{|record| "#{record.attributes["ED_ID"]}-2015"},
+        :name => "ENGLISH_NA",
+        :validFrom => lambda{|record| "2018-06-07"},
+      }
+    ).run
   end
 end
 
